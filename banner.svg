@@ -1,0 +1,114 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="1200" height="300" rx="20" fill="#0D1117"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.08" stroke="#58A6FF">
+    <path d="M0 50H1200"/>
+    <path d="M0 100H1200"/>
+    <path d="M0 150H1200"/>
+    <path d="M0 200H1200"/>
+    <path d="M0 250H1200"/>
+
+    <path d="M50 0V300"/>
+    <path d="M150 0V300"/>
+    <path d="M250 0V300"/>
+    <path d="M350 0V300"/>
+    <path d="M450 0V300"/>
+    <path d="M550 0V300"/>
+    <path d="M650 0V300"/>
+    <path d="M750 0V300"/>
+    <path d="M850 0V300"/>
+    <path d="M950 0V300"/>
+    <path d="M1050 0V300"/>
+    <path d="M1150 0V300"/>
+  </g>
+
+  <!-- Glow -->
+  <circle cx="1050" cy="80" r="180" fill="#1F6FEB" opacity="0.08"/>
+  <circle cx="150" cy="250" r="160" fill="#8957E5" opacity="0.06"/>
+
+  <!-- Decorative code -->
+  <text x="70" y="70"
+        font-family="monospace"
+        font-size="18"
+        fill="#8B949E">
+    &lt;developer /&gt;
+  </text>
+
+  <!-- Main name -->
+  <text x="70" y="135"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="52"
+        font-weight="700"
+        fill="#F0F6FC">
+    AFIF AHMED
+  </text>
+
+  <!-- Accent line -->
+  <rect x="72" y="155" width="90" height="4" rx="2" fill="#58A6FF"/>
+
+  <!-- Description -->
+  <text x="70" y="205"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="23"
+        fill="#C9D1D9">
+    Full-Stack Developer • AI Enthusiast
+  </text>
+
+  <text x="70" y="240"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        fill="#8B949E">
+    Building useful things with code, AI &amp; automation.
+  </text>
+
+  <!-- Right-side terminal -->
+  <rect x="790" y="55" width="330" height="190"
+        rx="12"
+        fill="#161B22"
+        stroke="#30363D"/>
+
+  <!-- Terminal top -->
+  <circle cx="815" cy="78" r="6" fill="#FF7B72"/>
+  <circle cx="835" cy="78" r="6" fill="#D29922"/>
+  <circle cx="855" cy="78" r="6" fill="#3FB950"/>
+
+  <!-- Terminal text -->
+  <text x="815" y="115"
+        font-family="monospace"
+        font-size="15"
+        fill="#8B949E">
+    ~/afif
+  </text>
+
+  <text x="815" y="145"
+        font-family="monospace"
+        font-size="15"
+        fill="#58A6FF">
+    $ npm run build
+  </text>
+
+  <text x="815" y="172"
+        font-family="monospace"
+        font-size="14"
+        fill="#3FB950">
+    ✓ compiling...
+  </text>
+
+  <text x="815" y="199"
+        font-family="monospace"
+        font-size="14"
+        fill="#3FB950">
+    ✓ build successful
+  </text>
+
+  <text x="815" y="225"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+    _
+  </text>
+
+</svg>
