@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Afif Ahmed GitHub Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Afif Ahmed</h1>
 
 <h3 align="center">
